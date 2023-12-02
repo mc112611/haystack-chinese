@@ -27,4 +27,5 @@
 ### 知乎开更：
 
 [haystack中文场景下使用（一）haystack简介](https://zhuanlan.zhihu.com/p/669982164)
+
 [haystack中文场景下使用（一）haystack安装](https://zhuanlan.zhihu.com/p/670002223)
