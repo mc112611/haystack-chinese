@@ -8,5 +8,7 @@
   2.将项目中的preprocessor.py和txt.py两个文件，替换原项目中的同名文件
 
 [haystack官方教程](https://haystack.deepset.ai/tutorials/01_basic_qa_pipeline)
+
 [haystack官方文档](https://docs.haystack.deepset.ai/docs/intro)
+
 [haystack接口文档](https://docs.haystack.deepset.ai/reference/agent-api)
